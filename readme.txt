@@ -50,6 +50,8 @@ I did not ignore any of the warnings or errors presented by the accessibility ch
 https://www.w3schools.com/html/default.asp (W3schools)
 https://www.w3schools.com/css/default.asp
 
+I did not use generative AI for this assignment.
+
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
