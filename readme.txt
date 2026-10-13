@@ -11,22 +11,24 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 0/1 Advanced feature
+- 0/2 Responsive layout
+- 1/1 Passes validation checks
+- 0/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
+The page has a header semantic tag, with appropriate headings and paragraph text, and adds a
+custom icon and font.
 
 
 
 (b) CSS features
-
+Has padding for text and modifies link and text color.
 
 
 (c) Advanced features
@@ -36,19 +38,23 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
+I did not ignore any of the warnings or errors presented by the accessibility checker.
 
 
 4. How long, in hours, did it take you to complete this assignment?
 
-
+4 hours.
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 
+https://www.w3schools.com/html/default.asp (W3schools)
+https://www.w3schools.com/css/default.asp
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
-
+I did not consult any individuals.
 
 7. Is there anything special we need to know in order to run your code?
 
+It does not use anything that would require other tools.

@@ -1,0 +1,47 @@
+
+body {
+    background-color: #eff4c2;
+    font-family: 'Noticia Text';
+    font-size: 20px;
+}
+
+p {
+    color: #3b3d28;
+    padding-left: 6em;
+}
+
+strong {
+    color: #336600;
+    font-size: 22px;
+}
+
+h2 {
+    color: #336600;
+    padding-left: 2em;
+}
+
+h3 {
+    font-size: 20px;
+    color: #336600;
+    padding-left: 3em;
+}
+
+a:link {
+    color: #336600;
+}
+
+a:visited {
+    color: #66427b;
+}
+
+a:hover {
+    color: #689f38;
+}
+
+ul li {
+    padding-left: 4em;
+}
+
+div.hydrangea-img {
+    padding-left: 1em;
+}
